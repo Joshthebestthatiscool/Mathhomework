@@ -1,7 +1,7 @@
 {
   "name": "iridium",
   "version": "1.0.0",
-  "description": "Iridium proxy",
+  "description": "Iridium",
   "main": "server.js",
   "scripts": {
     "test": "node server.js"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Iridium-Dev/Iridium.git"
   },
   "keywords": [
-    "Proxy",
+    "jsajdla",
     "Bypass",
     "Censorship",
     "Iridium",
