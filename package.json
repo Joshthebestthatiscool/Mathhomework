@@ -1,29 +1,29 @@
 {
-  "name": "iridium",
+  "name": "dsadadasd",
   "version": "1.0.0",
-  "description": "Iridium",
+  "description": "dsadadasd",
   "main": "server.js",
   "scripts": {
     "test": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Iridium-Dev/Iridium.git"
+    "url": "git+https://github.com/dsadadasd-Dev/dsadadasd.git"
   },
   "keywords": [
     "jsajdla",
     "Bypass",
     "Censorship",
-    "Iridium",
+    "dsadadasd",
     "Games",
     "bypasser"
   ],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Iridium-Dev/Iridium/issues"
+    "url": "https://github.com/dsadadasd-Dev/dsadadasd/issues"
   },
-  "homepage": "https://github.com/Iridium-Dev/Iridium#readme",
+  "homepage": "https://github.com/dsadadasd-Dev/dsadadasd#readme",
   "dependencies": {
     "@titaniumnetwork-dev/ultraviolet": "^1.0.11",
     "@tomphttp/bare-server-node": "^1.2.6",
